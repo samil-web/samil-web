@@ -6,13 +6,13 @@
 [2]:  https://medium.com/@samil.alieff
 [3]:  https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [4]:  https://www.linkedin.com/in/samil-aliyev/
-
-
+[5]:  https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter&logoColor=white
+[6]:  https://twitter.com/AlieffShamil
 I'm a Lifetime Learner who strives to be able to do anything by learning and practicing. I would like to share my new-learning topics with you.
 
 [![Medium][1]][2]
 [![LinkedIn][3]][4]
-
+[![Twitter][5]][6]
 ***
 #### Languages
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
