@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=samil-web&label=Profile%20views&color=000000&style=flat" alt="Shamil Aliyev" /> </p>
 
-![Redis](assets/img.png)
+
 
 [1]:  https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
 [2]:  https://medium.com/@samil.alieff
